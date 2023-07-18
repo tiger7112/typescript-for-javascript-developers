@@ -1,6 +1,6 @@
-// export {};
+export {};
 
-let name = 'typescript';
+// let name = 'typescript';
 
 let isFinished:boolean = true;
 isFinished = false;
